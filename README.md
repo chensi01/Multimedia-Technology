@@ -12,6 +12,7 @@ Notes on multimedia technology courses, including:
 
 
 - Image 
+
   • Image Features: SIFT and et al.
   
   • BoVW Framework
@@ -21,6 +22,7 @@ Notes on multimedia technology courses, including:
 
 
 - K-means and its variants
+
   • Nearest Neighbour Search 
   
   • KD-Tree
